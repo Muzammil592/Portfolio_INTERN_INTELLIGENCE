@@ -36,6 +36,7 @@ This project is a **Node.js** and **MongoDB** based backend API designed to mana
   "githublink": "https://github.com/yourusername/portfolio",
   "technologies": ["React", "Node.js", "MongoDB"]
 }
+```
 
 👨‍💻 Author
 Muzammil Abbas
